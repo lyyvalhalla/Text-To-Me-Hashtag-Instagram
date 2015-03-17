@@ -1,4 +1,4 @@
-
+Text a hashtag or username to a number, and receive an MMS of an Instagram photo from that hashtag or that user.
 
 
 
