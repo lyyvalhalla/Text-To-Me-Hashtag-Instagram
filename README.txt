@@ -1,10 +1,6 @@
+Redial Class Midterm 2014 Fall
+
 Text a hashtag or username to a number, and receive an MMS of an Instagram photo from that hashtag or that user.
-
-
-
-
-
-
 use Twilio and Asterisk
 
 
