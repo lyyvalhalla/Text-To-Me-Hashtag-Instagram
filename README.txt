@@ -1,3 +1,16 @@
+
+
+
+
+
+
+
+use Twilio and Asterisk
+
+
+
+
+
 to run:
     * in one terminal window, run:
         ./zouni.rb
@@ -6,7 +19,6 @@ to run:
     * go to browser, localhost:4567, login, leave it alone
     * send text
 
-When demoing, go over general architechture first, then specific examples
 
 1. username
     demo: @ruoyul, @lyyvalhalla for correct response
